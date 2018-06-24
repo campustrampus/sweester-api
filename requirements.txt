@@ -1,0 +1,4 @@
+boto3 == 1.7.35
+flask == 1.0.2
+psycopg2 == 2.7.4
+pyyaml == 3.12
